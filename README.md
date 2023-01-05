@@ -3,7 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 Title:       Typed mxGraph with Angular 15
+
 Description: How to integrate mxGraph with Angular 15 and above
+
 Abstract:    There is limited number of posts on how to integrate mxGraph with Angular. However, from Angular13 none of them seems to work. This article discusses how to overcome common errors when implementing typed mxgraph with Angular. 
 
 
